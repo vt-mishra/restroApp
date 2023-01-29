@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vatan",
+      "email": "vatan@gmail.com",
+      "mobile": "7466777884",
+      "address": "cidco colony",
+      "services": "chai & coffee"
+    },
+    {
+      "name": "nutgrutyjh",
+      "email": "",
+      "mobile": "",
+      "address": "",
+      "services": "",
+      "id": 2
+    },
+    {
+      "name": "vatan",
+      "email": "vatan@gmail.com",
+      "mobile": 8889889889,
+      "address": "cidco colony",
+      "services": "chai and coffe",
+      "id": 3
+    },
+    {
+      "name": "vatan",
+      "email": "vatan@gmail.com",
+      "mobile": 8889889889,
+      "address": "cidco colony",
+      "services": "chai and coffe",
+      "id": 4
+    },
+    {
+      "name": "raja",
+      "email": "uigjhjm@gmail.com",
+      "mobile": 6789778778,
+      "address": "kgjghm",
+      "services": "uguj",
+      "id": 5
+    },
+    {
+      "name": "aman",
+      "email": "jfdjh@gmail.com",
+      "mobile": 86785688766,
+      "address": "gcjjsk ",
+      "services": "chai coffe",
+      "id": 6
+    }
+  ]
+}
